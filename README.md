@@ -11,9 +11,6 @@ This project allows users to **create quizzes**, **generate Google Forms automat
 ✅ **Quiz Approval Workflow** → Review and approve quizzes before sharing.  
 ✅ **Email Notifications** → Send quiz links via email using the Gmail API.  
 ✅ **ReactJS Frontend** → User-friendly interface for creating, reviewing, and approving quizzes.  
-✅ **Python SDK** → Auto-generated SDK for programmatic quiz management.  
-✅ **Automation Scripts** → Quick setup and execution.  
-
 ---
 
 ## 🚀 Getting Started  
