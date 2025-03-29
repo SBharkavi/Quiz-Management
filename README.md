@@ -115,8 +115,6 @@ Frontend will be available at **`http://localhost:3000`**.
 
 - Ensure **Google credentials** are set correctly before running the backend.  
 - The **Google Form link** is generated upon quiz creation.  
-- Only **approved quizzes** are emailed to participants.  
-
 ---
 
 Now you’re all set! 🚀 🎉
