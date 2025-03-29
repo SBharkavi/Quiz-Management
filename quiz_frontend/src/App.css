@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: rgb(36, 118, 219);
+  padding: 10px;
+  color: white;
+}
+
+.nav-links {
+  list-style-type: none;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.nav-links li {
+  display: inline;
+}
+
+.App-link {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+
+.App-content {
+  padding: 20px;
+}
